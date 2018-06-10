@@ -1,4 +1,4 @@
-![logo](https://github.com/julianotech/NumberWizard/blob/master/logo.png)
+![logo](https://github.com/julianotech/NumberWizard/blob/master/logo.jpg)
 
 # :1234: NumberWizard
 Number Wizard is a simple guess-the-number game, where the player secretly picks a number and
