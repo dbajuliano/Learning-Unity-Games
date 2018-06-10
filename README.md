@@ -8,7 +8,7 @@ the computer attempts to guess with as few attempts as possible. From http://www
 
 # ❤ Motivation
 
-Since I have finished the university I was thinking to become a developer so finally, I have decided to start learning more about programming.
+Since I have finished the university I was thinking to become a developer, so finally, I have decided to start learning more about programming.
 
 # ⚠ Prerequisites
 
