@@ -62,12 +62,10 @@ I am also love open-source software and I give back to the community as much as 
 
 - The content of the course videos is © copyright http://www.CompleteUnityDeveloper.com
 
-- This project is licensed under the unlicense License - see the [LICENSE.md](LICENSE.md) file for details
+- This project is licensed under the unlicense License - see the [LICENSE](LICENSE) file for details
 
 - [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # 📄 Notes
 
 [![Buy Me Coffee](https://github.com/julianotech/JPianoTiles/blob/master/coffe.png)](https://www.paypal.me/julianotech)
-
-
