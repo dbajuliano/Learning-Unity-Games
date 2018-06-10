@@ -9,6 +9,8 @@ public class NumberWizard : MonoBehaviour {
 	int guess = 500;
 	
 	void Start () {
+	max = max + 1;
+	
 	print("Welcome to Number Wizard");
 	print("Pick a number in your head, but don't tell me!");	
 	
@@ -24,12 +26,13 @@ public class NumberWizard : MonoBehaviour {
 	void Update () {
 	
 		if (Input.GetKeyDown(KeyCode.UpArrow)) {
-			//print ("Up arrow pressed");
 			min = guess;
 			guess = (max + min) / 2;
 			print ("higher or lower than " +guess);
 		}else if (Input.GetKeyDown(KeyCode.DownArrow)) {
-			print ("Down arrow pressed"); 
+			max = guess;
+			guess = (max + min) / 2;
+			print ("higher or lower than " +guess);
 		}else if (Input.GetKeyDown(KeyCode.Return)) {
 			print ("I won"); 
 		}
