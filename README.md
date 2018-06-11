@@ -1,7 +1,7 @@
 ![logo](https://github.com/julianotech/NumberWizard/blob/master/logo.jpg)
 
 # :abc: Text101
-Description here. From http://www.CompleteUnityDeveloper.com
+A basic state-machine based text adventure exercise using scriptable objects in Unity, as part of the Complete Unity C# Developer course. From http://www.CompleteUnityDeveloper.com
 
 ![Screenshot](https://github.com/julianotech/Text101/blob/master/screenshot.jpg)
 
