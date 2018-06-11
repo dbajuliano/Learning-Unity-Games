@@ -50,7 +50,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 
 I am using [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/julianotech/NumberWizard/tags).
 
-# :video_game: About Juliano
+# :moyai: About Juliano
 
 Juliano is a passionate person who believe that work is a place where you can innovate and have fun.
 
