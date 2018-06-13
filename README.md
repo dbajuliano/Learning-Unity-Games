@@ -51,7 +51,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 I am using [SemVer](http://semver.org/) for versioning. For the versions available, 
 see the [tags on this repository](https://github.com/julianotech/Text101/tags).
 
-# :moyai: About Juliano
+# :moyai: About the author
 
 Juliano is a passionate person who believe that work is a place where you can innovate and have fun.
 
