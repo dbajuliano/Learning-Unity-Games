@@ -3,7 +3,11 @@
 # :abc: Text101
 A basic state-machine based text adventure exercise using scriptable objects in Unity, as part of the Complete Unity C# Developer course. From http://www.CompleteUnityDeveloper.com
 
-![Screenshot](https://github.com/julianotech/Text101/blob/master/screenshot.jpg)
+![Screenshot](screenshot.jpg)
+
+# :chart_with_upwards_trend: Flowchart
+
+![flowchart](flowchart-draw.io.png)
 
 # :heart: Motivation
 
