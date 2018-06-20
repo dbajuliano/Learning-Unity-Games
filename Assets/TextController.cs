@@ -5,7 +5,7 @@ using System.Collections;
 public class TextController : MonoBehaviour
 {	
 public Text text;
-private enum States {start, later, study, test, docs, visa, illegal, survey, end};
+private enum States {start, fail, study, test, eudocs, visa, illegal, survey, end};
 private States myState;
 
 // Use this for initialization
@@ -19,14 +19,14 @@ void Update (){
 	print(myState);
 		if (myState == States.start){
 		start();
-		} else if(myState == States.later){
-			later();
+		} else if(myState == States.fail){
+			fail();
 		} else if(myState == States.study){
 			study();
 		} else if(myState == States.test){
 			test();
-		} else if(myState == States.docs){
-			docs();
+		} else if(myState == States.eudocs){
+			eudocs();
 		} else if(myState == States.visa){
 			visa();
 		} else if(myState == States.illegal){
@@ -46,13 +46,13 @@ void Update (){
 					"How start a journey to the United Kingdom if you don't even speak English? \n\n" +						
 					"Press S to Study English or L to think about it Later" ;				
 			if (Input.GetKeyDown (KeyCode.L)) {
-			myState = States.later;
+			myState = States.fail;
 			}else if (Input.GetKeyDown(KeyCode.S)){
 			myState = States.study;
 			}
 		}
 		
-	void later(){
+	void fail(){
 		text.text = "Good communication skills are essential to any task. " +
 					"You may not succeed in a new country with different language and culture if you are unable to communicate. " +
 					"The study comes first. Get prepared now!\n\n" +
@@ -69,7 +69,7 @@ void Update (){
 		if (Input.GetKeyDown(KeyCode.S)){
 			myState = States.test;
 		}else if(Input.GetKeyDown(KeyCode.I)){
-			myState = States.later;
+			myState = States.fail;
 		}
 	}
 	
@@ -78,8 +78,8 @@ void Update (){
 					"You must hold documents from one of the 28 countries of the European Union (EU) " +
 					"or apply for a Visa. On the other hands, it is not recommended to stay illegal.\n\n" +
 					"Press E to learn more about European docs, V to apply for a Visa or I to stay Illegal ";
-		if (Input.GetKeyDown(KeyCode.L)){
-			myState = States.docs;
+		if (Input.GetKeyDown(KeyCode.E)){
+			myState = States.eudocs;
 		}else if(Input.GetKeyDown(KeyCode.I)){
 			myState = States.illegal;
 		}else if(Input.GetKeyDown(KeyCode.V)){
@@ -87,7 +87,7 @@ void Update (){
 	}
 }
 	
-	void docs(){
+	void eudocs(){
 		text.text = "You can require EU docs if you are a family member from Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, " + 
 					"Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, " + 
 					"Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and the UK. " + 
