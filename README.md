@@ -3,7 +3,7 @@
 # :1234: Number-wizard-ui
 This is a simple game where you think of a number, and the computer tries to guess it in as few tries as possible. See www.CompleteUnityDeveloper.com/numberwizard for more information.
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 # :chart_with_upwards_trend: Scene Flow Diagram
 
