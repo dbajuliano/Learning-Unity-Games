@@ -59,7 +59,7 @@ I am also love open-source software and I give back to the community as much as 
 
 # :copyright: License
 
-- All the course content and the videos are � copyright http://www.CompleteUnityDeveloper.com and it is not available here in this repository.
+- All the course content and the videos are :copyright: copyright http://www.CompleteUnityDeveloper.com and it is not available here in this repository.
 
 - This project is licensed under the Unlicense License - see the [LICENSE](LICENSE) file for details
 
