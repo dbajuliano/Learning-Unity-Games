@@ -1,7 +1,7 @@
 ![logo](https://github.com/julianotech/NumberWizard/blob/master/logo.jpg)
 
 # :abc: Text101
-A basic state-machine based text adventure exercise using scriptable objects in Unity, as part of the Complete Unity C# Developer course. From http://www.CompleteUnityDeveloper.com
+A basic state-machine-based text adventure exercise using scriptable objects in Unity, as part of the Complete Unity C# Developer course. From http://www.CompleteUnityDeveloper.com
 
 ![Screenshot](screenshot.jpg)
 
@@ -9,19 +9,16 @@ A basic state-machine based text adventure exercise using scriptable objects in 
 
 ![flowchart](flowchart-draw.io.png)
 
-# :heart: Motivation
 
-Since I have finished the university I was thinking to become a developer, so finally, I have decided to start learning more about programming.
+# :warning: Requirements
 
-# :warning: Prerequisites
+Make sure you are able to download this entire project code available on GitHub.
 
-These requirements will get you a copy of the project up and running on your local machine for development and testing purposes. See Installation for notes on how to deploy the project on a live system.
+Run the project on your local machine for development and testing purposes. See Installation for notes on how to deploy the project on a live system.
 
 To be able to run this game you need to have installed Unity version 4.6.9 and it is highly recommended to use the same version to avoid conflicts.
 
-Make sure you are able to download this entire project code available on GitHub. 
-
-Optional: You can also download GitHub Desktop to push Unity updates throw the repository.
+Optional: You can also download GitHub Desktop to push Unity updates through the repository.
 
 # :floppy_disk: Installation
 
@@ -29,7 +26,7 @@ The Unity installation version 4.6.9 could be found here: https://beta.unity3d.c
 
 # :ballot_box_with_check: Tests
 
-I have tested this project on Windows 10 x64 using Unity version 4.6.9 with sucess.
+I have tested on Android Studio using AVD for Nexus API 27 by Google Inc with success.
 
 # :hammer: Built With
 
@@ -41,14 +38,6 @@ I have tested this project on Windows 10 x64 using Unity version 4.6.9 with suce
 
 - GitHub Desktop - Simple collaboration from your desktop
     
-# :wrench: Support
-
-If you have questions about the project or encounter any problem while configuring your environment, 
-please don't hesistate to contact the project author or [submit an issue](https://github.com/julianotech/Text101/issues/new).
-    
-# :couple: Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
  
 # :octocat: Versioning
 
@@ -57,11 +46,11 @@ see the [tags on this repository](https://github.com/julianotech/Text101/tags).
 
 # :moyai: The Author
 
-Juliano is a passionate person who believe that work is a place where you can innovate and have fun.
+Juliano is a passionate person who believes that work is a place where you can innovate and have fun.
 
-A talented DBA and System Administrator who have start to code.
+A talented DBA and System Administrator who has started to code.
 
-I am also love open-source software and I give back to the community as much as I can.
+I also love open-source software and I give back to the community as much as I can.
 
 # :copyright: License
 
@@ -71,6 +60,4 @@ I am also love open-source software and I give back to the community as much as 
 
 - [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# :page_facing_up: Notes
-
-[![Buy Me Coffee](https://github.com/julianotech/JPianoTiles/blob/master/coffe.png)](https://www.paypal.me/julianotech)
+[![Buy Me Coffee](https://github.com/julianotech/JPianoTiles/blob/master/coffe.png)](https://revolut.me/hotsauce)
